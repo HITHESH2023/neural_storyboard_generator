@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Output folders (generated images/storyboards)
+outputs/
+
+# Model checkpoints or large files (if added later)
+checkpoints/
+*.ckpt
+
+# Temp files
+*.tmp
+*.temp
+
+# Environment config
+pyvenv.cfg
